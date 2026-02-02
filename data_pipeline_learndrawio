@@ -4,6 +4,35 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gzYxxtSJN1981ncf42fQ-4" edge="1" parent="1" source="gzYxxtSJN1981ncf42fQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gzYxxtSJN1981ncf42fQ-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gzYxxtSJN1981ncf42fQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CRM system - Hubspot" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gzYxxtSJN1981ncf42fQ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cloud Storage" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gzYxxtSJN1981ncf42fQ-5" edge="1" parent="1" source="gzYxxtSJN1981ncf42fQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gzYxxtSJN1981ncf42fQ-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gzYxxtSJN1981ncf42fQ-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Cloud Run" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gzYxxtSJN1981ncf42fQ-8" edge="1" parent="1" source="gzYxxtSJN1981ncf42fQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gzYxxtSJN1981ncf42fQ-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gzYxxtSJN1981ncf42fQ-9" connectable="0" parent="gzYxxtSJN1981ncf42fQ-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Direct" vertex="1">
+          <mxGeometry relative="1" x="-0.005" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gzYxxtSJN1981ncf42fQ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Google Drive - Sheet" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="gzYxxtSJN1981ncf42fQ-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BigQuery" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="380" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
