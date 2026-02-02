@@ -28,10 +28,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gzYxxtSJN1981ncf42fQ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Google Drive - Sheet" vertex="1">
-          <mxGeometry height="60" width="120" x="70" y="380" as="geometry" />
+          <mxGeometry height="60" width="120" x="70" y="550" as="geometry" />
         </mxCell>
         <mxCell id="gzYxxtSJN1981ncf42fQ-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BigQuery" vertex="1">
-          <mxGeometry height="60" width="120" x="430" y="380" as="geometry" />
+          <mxGeometry height="60" width="120" x="430" y="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
